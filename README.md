@@ -4,7 +4,7 @@ Person Classification with Gender using VGG16 Model
 - Task by <b>Andi Hendra, S.Si., M.Kom.</b>
 
 
-## Team Member
+## Team 6 Member
 
 - Anugrah Aidin Yotolembah (<b>F551 20 093</b>)
 - Fajar Dzulnufrie Hafriadi (<b>F551 20 089</b>)
