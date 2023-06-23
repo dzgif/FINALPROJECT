@@ -12,6 +12,10 @@ Person Classification with Gender using VGG16 Model
 - Mutiara Sari Muti (<b>F551 20 091</b>)
 - Iga Mawarni (<b>F551 20 099</b>)
 
+## 🔗 Dataset
+[Google-Drive](https://drive.google.com/drive/folders/1nJxZKzr_mIxRbbQxulk503rwWRHIWUnU?usp=sharing)
+
+
 
 ## Workflow
 
@@ -20,6 +24,8 @@ Person Classification with Gender using VGG16 Model
     3. Creating Model
     4. Training/Validation with Visualization
     5. Testing including visual and caption
+
+    
 ## Library
 
 ```python
